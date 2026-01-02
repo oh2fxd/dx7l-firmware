@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "file": "dx7l-1.0.1.bin",
-  "url": "https://raw.githubusercontent.com/oh2fxd/dx7l-firmware/main/dx7l-1.0.1.bin",
-  "notes": "Test OTA release - version 1.0.1"
+  "version": "1.0.2",
+  "file": "dx7l-1.0.2.bin",
+  "url": "https://raw.githubusercontent.com/oh2fxd/dx7l-firmware/main/dx7l-1.0.2.bin",
+  "notes": "OTA update test - version 1.0.2"
 }
