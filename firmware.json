@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "file": "dx7l-1.0.3.bin",
-  "url": "https://raw.githubusercontent.com/oh2fxd/dx7l-firmware/main/dx7l-1.0.3.bin",
-  "notes": "Boot splash screen and progress bar"
+  "version": "1.0.4",
+  "file": "dx7l-1.0.4.bin",
+  "url": "https://raw.githubusercontent.com/oh2fxd/dx7l-firmware/main/dx7l-1.0.4.bin",
+  "notes": "OTA test release v1.0.4"
 }
