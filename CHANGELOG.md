@@ -1,5 +1,12 @@
 # DX7L Firmware Changelog
 
+## v1.1.0 (2026-01-03)
+- **New:** WiFi network scanning in web config (scan and select WiFi networks)
+- **New:** Reset WiFi & Grid button to clear settings and reboot to AP mode
+- **New:** Setup Wizard - guided configuration when starting in AP mode
+- **New:** Modes info label on map shows enabled modes (top-left corner)
+- AP mode creates "dx7-setup" network (password: hamradio) for initial setup
+
 ## v1.0.9 (2026-01-03)
 - **New:** Multi-mode selection on LCD (grid layout like band filter)
 - **New:** Mode filter added to web configuration interface
