@@ -1,6 +1,5 @@
 {
-  "version": "1.1.0",
-  "file": "dx7l-1.1.0.bin",
-  "url": "https://raw.githubusercontent.com/oh2fxd/dx7l-firmware/main/dx7l-1.1.0.bin",
-  "notes": "WiFi scan in web config, Reset WiFi & Grid button, Setup Wizard for AP mode, Modes info display on map"
+  "version": "1.1.1",
+  "file": "dx7l-1.1.1.bin",
+  "notes": "PSK Reporter delay warning, bands | modes display"
 }
