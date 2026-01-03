@@ -1,5 +1,9 @@
 # DX7L Firmware Changelog
 
+## v1.0.7 (2026-01-03)
+- **New:** Release notes displayed on OTA update page
+- Shows what's new before installing updates
+
 ## v1.0.6 (2026-01-03)
 - **Fixed:** Spot flash bug - spots no longer flash when old ones expire
 - Efficient `expire_old_spots()` function removes only expired spots

@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "file": "dx7l-1.0.6.bin",
-  "url": "https://raw.githubusercontent.com/oh2fxd/dx7l-firmware/main/dx7l-1.0.6.bin",
-  "notes": "Fixed spot flash bug when old spots expire"
+  "version": "1.0.7",
+  "file": "dx7l-1.0.7.bin",
+  "url": "https://raw.githubusercontent.com/oh2fxd/dx7l-firmware/main/dx7l-1.0.7.bin",
+  "notes": "Release notes now shown on OTA page"
 }
