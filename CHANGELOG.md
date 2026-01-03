@@ -1,0 +1,33 @@
+# DX7L Firmware Changelog
+
+## v1.0.5 (2026-01-02)
+- **New:** 🌙 Dark Mode Map - Toggle to invert map colors for night viewing
+- Dark mode preference saved to SD card
+- Web config checkbox to enable/disable dark mode
+
+## v1.0.4 (2026-01-02)
+- OTA update test release
+- No functional changes from v1.0.3
+
+## v1.0.3 (2026-01-02)
+- **New:** Boot splash screen with "DX7L" title and version
+- **New:** Boot progress bar showing initialization status
+- Visual feedback during startup
+
+## v1.0.2 (2026-01-02)
+- Fixed OTA version checking (now uses firmware.json)
+- OTA downloads firmware URL from manifest
+
+## v1.0.1 (2026-01-02)
+- **New:** OTA (Over-The-Air) firmware updates via web interface
+- Check for updates from GitHub repository
+- Download and apply firmware updates wirelessly
+- OTA tab added to web configuration
+
+## v1.0.0 (2026-01-02)
+- Initial release with OTA support
+- MAX_VISIBLE_SPOTS=150 limit for stability
+- DX spot mapping from PSKReporter MQTT feed
+- Configurable bands, modes, and filters
+- Friends list with priority alerts
+- Web-based configuration interface
