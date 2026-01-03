@@ -1,6 +1,12 @@
 # DX7L Firmware Changelog
 
-## v1.0.5 (2026-01-02)
+## v1.0.6 (2026-01-03)
+- **Fixed:** Spot flash bug - spots no longer flash when old ones expire
+- Efficient `expire_old_spots()` function removes only expired spots
+- Full redraw now only occurs every 30 minutes (was every second)
+- Smoother visual experience during normal operation
+
+## v1.0.5 (2026-01-03)
 - **New:** 🌙 Dark Mode Map - Toggle to invert map colors for night viewing
 - Dark mode preference saved to SD card
 - Web config checkbox to enable/disable dark mode

@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "file": "dx7l-1.0.5.bin",
-  "url": "https://raw.githubusercontent.com/oh2fxd/dx7l-firmware/main/dx7l-1.0.5.bin",
-  "notes": "Dark Mode Map toggle for night viewing"
+  "version": "1.0.6",
+  "file": "dx7l-1.0.6.bin",
+  "url": "https://raw.githubusercontent.com/oh2fxd/dx7l-firmware/main/dx7l-1.0.6.bin",
+  "notes": "Fixed spot flash bug when old spots expire"
 }
