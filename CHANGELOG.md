@@ -1,5 +1,10 @@
 # DX7L Firmware Changelog
 
+## v1.0.8 (2026-01-03)
+- **New:** Dark Mode Map toggle in LCD Display Settings
+- **New:** OH activity now shows elapsed time (e.g., "OH: OH2XYZ -> W1ABC (20m) 3m")
+- OH activity label auto-hides after 15 minutes (spot window)
+
 ## v1.0.7 (2026-01-03)
 - **New:** Release notes displayed on OTA update page
 - Shows what's new before installing updates
