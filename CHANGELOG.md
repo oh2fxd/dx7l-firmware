@@ -1,5 +1,12 @@
 # DX7L Firmware Changelog
 
+## v1.0.9 (2026-01-03)
+- **New:** Multi-mode selection on LCD (grid layout like band filter)
+- **New:** Mode filter added to web configuration interface
+- **New:** Map dragging disabled on EU and WORLD views (zoom ≤4)
+- Mode button now shows "Modes:X" count format
+- MQTT subscriptions updated to handle multiple enabled modes
+
 ## v1.0.8 (2026-01-03)
 - **New:** Dark Mode Map toggle in LCD Display Settings
 - **New:** OH activity now shows elapsed time (e.g., "OH: OH2XYZ -> W1ABC (20m) 3m")

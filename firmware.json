@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "file": "dx7l-1.0.8.bin",
-  "url": "https://raw.githubusercontent.com/oh2fxd/dx7l-firmware/main/dx7l-1.0.8.bin",
-  "notes": "Dark Mode in LCD settings, OH activity shows elapsed time"
+  "version": "1.0.9",
+  "file": "dx7l-1.0.9.bin",
+  "url": "https://raw.githubusercontent.com/oh2fxd/dx7l-firmware/main/dx7l-1.0.9.bin",
+  "notes": "Multi-mode selection, Mode filter in web config, Disable map dragging on EU/WORLD"
 }
