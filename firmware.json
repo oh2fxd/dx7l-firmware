@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "file": "dx7l-1.1.1.bin",
-  "notes": "PSK Reporter delay warning, bands | modes display"
+  "version": "1.1.7",
+  "url": "https://raw.githubusercontent.com/oh2fxd/dx7l-firmware/main/dx7l.bin",
+  "notes": "Security: removed hardcoded WiFi credentials. Stability: added watchdog feeds in render loop. Updated ArduinoJson to v7 style."
 }
