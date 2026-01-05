@@ -1,4 +1,7 @@
-# DX7L Firmware Changelog
+# Changelog
+
+## [1.2.2] - 2026-01-05
+- Built from commit 72f483b
 
 ## v1.1.0 (2026-01-03)
 - **New:** WiFi network scanning in web config (scan and select WiFi networks)
