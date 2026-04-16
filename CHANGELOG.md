@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.2.26] - 2026-04-16
+- Built from commit 4d967e1
+
 ## [1.2.25] - 2026-04-16
 - Built from commit fbd98d5
 
