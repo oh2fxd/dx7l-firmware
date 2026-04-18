@@ -3,6 +3,9 @@
 ## [1.2.31] - 2026-04-18
 - Built from commit f9441c5
 
+## [1.2.31] - 2026-04-18
+- Built from commit f9441c5
+
 ## [1.2.30] - 2026-04-18
 - Built from commit 4351c6a
 
