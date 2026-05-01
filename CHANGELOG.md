@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.2.72] - 2026-05-01
+- Built from commit e73fabc
+
 ## [1.2.71] - 2026-04-30
 - Built from commit 1b80083
 
