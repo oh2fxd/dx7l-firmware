@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.2.80] - 2026-08-27
+- Built from commit 0319cf6
+- MUF / E-Skip alert (HamQSL solar data, on-screen popup + web toggle)
+
 ## [1.2.79] - 2026-08-27
 - Built from commit b8bc7be
 - Add 2m, 70cm, 11m bands; fix mode legend spacing
