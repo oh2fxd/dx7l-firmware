@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.2.79] - 2026-08-27
+- Built from commit b8bc7be
+- Add 2m, 70cm, 11m bands; fix mode legend spacing
+
 ## [1.2.78] - 2026-07-22
 - Built from commit 0dc0842
 
